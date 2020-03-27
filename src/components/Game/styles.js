@@ -3,8 +3,6 @@ import styled from 'styled-components';
 const StyledGameContainer = styled.div`
   display: flex;
   justify-content: center;
-  .start-button {
-  }
 `;
 
 const LooseScreen = styled.div`
